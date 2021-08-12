@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ashok0335
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @ Ashok Kumar Madati
+- 👀 I’m interested in : Travelling
+- 🌱 I’m currently learning : Data Science 
+- 💞️ I’m looking to collaborate on   : AI& Ml Engineers
+- 📫 How to reach me . : +91 8008027890
 
 <!---
 Ashok0335/Ashok0335 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
