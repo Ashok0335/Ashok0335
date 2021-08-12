@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ Ashok Kumar Madati
 - 👀 I’m interested in : Travelling
 - 🌱 I’m currently learning : Data Science 
-- 💞️ I’m looking to collaborate on   : AI& Ml Engineers
+- 💞️ I’m looking to collaborate on   : AI& ML Engineers
 - 📫 How to reach me . : +91 8008027890
 
 <!---
